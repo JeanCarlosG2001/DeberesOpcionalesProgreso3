@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArboldeDesiciones/ArboldeDesiciones.iml" filepath="$PROJECT_DIR$/ArboldeDesiciones/ArboldeDesiciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AvanceProyecto2/AvanceProyecto2.iml" filepath="$PROJECT_DIR$/AvanceProyecto2/AvanceProyecto2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AvanceProyecto3/AvanceProyecto3.iml" filepath="$PROJECT_DIR$/AvanceProyecto3/AvanceProyecto3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiagramaDeArboles/DiagramaDeArboles.iml" filepath="$PROJECT_DIR$/DiagramaDeArboles/DiagramaDeArboles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grafos/Grafos.iml" filepath="$PROJECT_DIR$/Grafos/Grafos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Intellij.iml" filepath="$PROJECT_DIR$/.idea/Intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jugadores_Binario 05mayo2025 1/Jugadores_Binario 05mayo2025 1.iml" filepath="$PROJECT_DIR$/Jugadores_Binario 05mayo2025 1/Jugadores_Binario 05mayo2025 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PyRArboles/PyRArboles.iml" filepath="$PROJECT_DIR$/PyRArboles/PyRArboles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursividad/Recursividad.iml" filepath="$PROJECT_DIR$/Recursividad/Recursividad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tetx/tetx.iml" filepath="$PROJECT_DIR$/tetx/tetx.iml" />
+    </modules>
+  </component>
+</project>
